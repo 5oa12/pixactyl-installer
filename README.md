@@ -1,4 +1,4 @@
-# :bird: pterodactyl-installer
+# :bird: pixactyl-installer
 
 ![Test Panel](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/panel.yml/badge.svg)
 ![Test Wings](https://github.com/pterodactyl-installer/pterodactyl-installer/actions/workflows/wings.yml/badge.svg)
@@ -9,7 +9,7 @@
 
 Unofficial scripts for installing Pterodactyl Panel & Wings. Works with the latest version of Pterodactyl!
 
-Read more about [Pterodactyl](https://pterodactyl.io/) here. This script is not associated with the official Pterodactyl Project.
+Read more about [Jexactyl](https://v4.jexactyl.com/) here. This script is not associated with the official Jexactyl Project.
 
 ## Features
 
